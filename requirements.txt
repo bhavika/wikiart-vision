@@ -26,5 +26,5 @@ sklearn==0.0
 statsmodels==0.8.0
 torch-vision==0.1.6.dev0
 tqdm==4.11.2
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 xgboost==0.6a2
