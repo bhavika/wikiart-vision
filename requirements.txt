@@ -10,7 +10,7 @@ olefile==0.44
 opencv-python==3.4.0
 pandas==0.20.1
 patsy==0.4.1
-Pillow==6.2.0
+Pillow==8.1.1
 protobuf==3.4.0
 pyparsing==2.2.0
 python-dateutil==2.6.1
